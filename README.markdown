@@ -1,8 +1,8 @@
 # CK Editor 
 
+Version: 1.0.1
 
-
-Version 3.6.2
+Base CKEditor Version 3.6.2
 
 Original Source Url: [http://ckeditor.com/download/releases](http://ckeditor.com/download/releases)
 
@@ -18,6 +18,10 @@ I intend to cultivate a lightweight version of CKEditor to be used with Frontend
 
 ## Release Notes
 
-### January 10, 2012
+### Version 1.0.1
+
+Removed _samples directory and all .asp files.
+
+### Initial Release 
 
 Initial Commit. This code is identical to the code that can be [downloaded from ckeditor.com](http://ckeditor.com/download/releases).
